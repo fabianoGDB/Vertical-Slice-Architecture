@@ -1,0 +1,24 @@
+[
+  {
+    "ContainingType": "ExampleVerticalSliceArchteture.Api.Features.Product.ProductEndpoints\u002B\u003C\u003Ec",
+    "Method": "\u003CMappProductEndpoints\u003Eb__0_0",
+    "RelativePath": "product/create",
+    "HttpMethod": "POST",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "product",
+        "Type": "ExampleVerticalSliceArchteture.Api.Features.Product.CreateProduct.CreateProductRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  }
+]

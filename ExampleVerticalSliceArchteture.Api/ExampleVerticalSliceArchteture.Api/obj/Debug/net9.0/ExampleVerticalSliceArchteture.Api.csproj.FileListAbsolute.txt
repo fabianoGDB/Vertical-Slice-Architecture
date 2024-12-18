@@ -148,3 +148,5 @@ C:\Users\docto\source\repos\VerticalSliceArchteture\ExampleVerticalSliceArchtetu
 C:\Users\docto\source\repos\VerticalSliceArchteture\ExampleVerticalSliceArchteture.Api\ExampleVerticalSliceArchteture.Api\obj\Debug\net9.0\ExampleVerticalSliceArchteture.Api.pdb
 C:\Users\docto\source\repos\VerticalSliceArchteture\ExampleVerticalSliceArchteture.Api\ExampleVerticalSliceArchteture.Api\obj\Debug\net9.0\ExampleVerticalSliceArchteture.Api.genruntimeconfig.cache
 C:\Users\docto\source\repos\VerticalSliceArchteture\ExampleVerticalSliceArchteture.Api\ExampleVerticalSliceArchteture.Api\obj\Debug\net9.0\ref\ExampleVerticalSliceArchteture.Api.dll
+C:\Users\docto\source\repos\VerticalSliceArchteture\ExampleVerticalSliceArchteture.Api\ExampleVerticalSliceArchteture.Api\bin\Debug\net9.0\MediatR.dll
+C:\Users\docto\source\repos\VerticalSliceArchteture\ExampleVerticalSliceArchteture.Api\ExampleVerticalSliceArchteture.Api\bin\Debug\net9.0\MediatR.Contracts.dll

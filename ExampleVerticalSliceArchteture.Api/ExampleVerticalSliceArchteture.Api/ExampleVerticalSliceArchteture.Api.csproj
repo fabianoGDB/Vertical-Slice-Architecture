@@ -8,6 +8,7 @@
 
   <ItemGroup>
     <PackageReference Include="Mapster" Version="7.4.0" />
+    <PackageReference Include="MediatR" Version="12.4.1" />
     <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="9.0.0" />
     <PackageReference Include="Scalar.AspNetCore" Version="1.2.50" />
 	  <PackageReference Include="Microsoft.EntityFrameworkCore" Version="9.0.0" />
@@ -16,6 +17,14 @@
 		  <PrivateAssets>all</PrivateAssets>
 		  <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
 	  </PackageReference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Features\Category\CreateCategory\" />
+    <Folder Include="Features\Product\DeleteProduct\" />
+    <Folder Include="Features\Product\GetAllProduct\" />
+    <Folder Include="Features\Product\GetProductById\" />
+    <Folder Include="Features\Product\UpdateProduct\" />
   </ItemGroup>
 
 
