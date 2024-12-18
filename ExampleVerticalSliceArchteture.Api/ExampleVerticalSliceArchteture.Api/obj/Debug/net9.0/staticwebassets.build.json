@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "RYqLsM0tS5WAc/PFg0KDWdZ6JubszQDylsm8m4PBw48=",
+  "Source": "ExampleVerticalSliceArchteture.Api",
+  "BasePath": "_content/ExampleVerticalSliceArchteture.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
