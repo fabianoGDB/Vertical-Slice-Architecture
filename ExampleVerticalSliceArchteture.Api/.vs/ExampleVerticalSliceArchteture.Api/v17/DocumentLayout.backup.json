@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\docto\\source\\repos\\VerticalSliceArchteture\\ExampleVerticalSliceArchteture.Api\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{C2E4B533-B38A-4853-BE98-663302A9F205}|ExampleVerticalSliceArchteture.Api\\ExampleVerticalSliceArchteture.Api.csproj|c:\\users\\docto\\source\\repos\\verticalslicearchteture\\exampleverticalslicearchteture.api\\exampleverticalslicearchteture.api\\features\\product\\productendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2E4B533-B38A-4853-BE98-663302A9F205}|ExampleVerticalSliceArchteture.Api\\ExampleVerticalSliceArchteture.Api.csproj|solutionrelative:exampleverticalslicearchteture.api\\features\\product\\productendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C2E4B533-B38A-4853-BE98-663302A9F205}|ExampleVerticalSliceArchteture.Api\\ExampleVerticalSliceArchteture.Api.csproj|c:\\users\\docto\\source\\repos\\verticalslicearchteture\\exampleverticalslicearchteture.api\\exampleverticalslicearchteture.api\\features\\product\\deleteproduct\\deleteproducthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C2E4B533-B38A-4853-BE98-663302A9F205}|ExampleVerticalSliceArchteture.Api\\ExampleVerticalSliceArchteture.Api.csproj|solutionrelative:exampleverticalslicearchteture.api\\features\\product\\deleteproduct\\deleteproducthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -17,10 +21,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{C2E4B533-B38A-4853-BE98-663302A9F205}|ExampleVerticalSliceArchteture.Api\\ExampleVerticalSliceArchteture.Api.csproj|c:\\users\\docto\\source\\repos\\verticalslicearchteture\\exampleverticalslicearchteture.api\\exampleverticalslicearchteture.api\\features\\product\\updateproduct\\updateproductrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C2E4B533-B38A-4853-BE98-663302A9F205}|ExampleVerticalSliceArchteture.Api\\ExampleVerticalSliceArchteture.Api.csproj|solutionrelative:exampleverticalslicearchteture.api\\features\\product\\updateproduct\\updateproductrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C2E4B533-B38A-4853-BE98-663302A9F205}|ExampleVerticalSliceArchteture.Api\\ExampleVerticalSliceArchteture.Api.csproj|c:\\users\\docto\\source\\repos\\verticalslicearchteture\\exampleverticalslicearchteture.api\\exampleverticalslicearchteture.api\\features\\product\\productendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C2E4B533-B38A-4853-BE98-663302A9F205}|ExampleVerticalSliceArchteture.Api\\ExampleVerticalSliceArchteture.Api.csproj|solutionrelative:exampleverticalslicearchteture.api\\features\\product\\productendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C2E4B533-B38A-4853-BE98-663302A9F205}|ExampleVerticalSliceArchteture.Api\\ExampleVerticalSliceArchteture.Api.csproj|c:\\users\\docto\\source\\repos\\verticalslicearchteture\\exampleverticalslicearchteture.api\\exampleverticalslicearchteture.api\\features\\product\\updateproduct\\updateproductcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -38,11 +38,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "DeleteProductHandler.cs",
               "DocumentMoniker": "C:\\Users\\docto\\source\\repos\\VerticalSliceArchteture\\ExampleVerticalSliceArchteture.Api\\ExampleVerticalSliceArchteture.Api\\Features\\Product\\DeleteProduct\\DeleteProductHandler.cs",
               "RelativeDocumentMoniker": "ExampleVerticalSliceArchteture.Api\\Features\\Product\\DeleteProduct\\DeleteProductHandler.cs",
@@ -50,12 +50,11 @@
               "RelativeToolTip": "ExampleVerticalSliceArchteture.Api\\Features\\Product\\DeleteProduct\\DeleteProductHandler.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-19T02:10:30.681Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-19T02:10:30.681Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "DeleteProductCommand.cs",
               "DocumentMoniker": "C:\\Users\\docto\\source\\repos\\VerticalSliceArchteture\\ExampleVerticalSliceArchteture.Api\\ExampleVerticalSliceArchteture.Api\\Features\\Product\\DeleteProduct\\DeleteProductCommand.cs",
               "RelativeDocumentMoniker": "ExampleVerticalSliceArchteture.Api\\Features\\Product\\DeleteProduct\\DeleteProductCommand.cs",
@@ -63,18 +62,17 @@
               "RelativeToolTip": "ExampleVerticalSliceArchteture.Api\\Features\\Product\\DeleteProduct\\DeleteProductCommand.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-19T02:10:07.427Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-19T02:10:07.427Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "ProductEndpoints.cs",
               "DocumentMoniker": "C:\\Users\\docto\\source\\repos\\VerticalSliceArchteture\\ExampleVerticalSliceArchteture.Api\\ExampleVerticalSliceArchteture.Api\\Features\\Product\\ProductEndpoints.cs",
               "RelativeDocumentMoniker": "ExampleVerticalSliceArchteture.Api\\Features\\Product\\ProductEndpoints.cs",
               "ToolTip": "C:\\Users\\docto\\source\\repos\\VerticalSliceArchteture\\ExampleVerticalSliceArchteture.Api\\ExampleVerticalSliceArchteture.Api\\Features\\Product\\ProductEndpoints.cs",
               "RelativeToolTip": "ExampleVerticalSliceArchteture.Api\\Features\\Product\\ProductEndpoints.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAowBsAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAwwBkAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-19T02:07:39.314Z",
               "EditorCaption": ""
@@ -89,12 +87,11 @@
               "RelativeToolTip": "ExampleVerticalSliceArchteture.Api\\Features\\Product\\UpdateProduct\\UpdateProductCommand.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-19T02:04:35.139Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-19T02:04:35.139Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "UpdateProductHandler.cs",
               "DocumentMoniker": "C:\\Users\\docto\\source\\repos\\VerticalSliceArchteture\\ExampleVerticalSliceArchteture.Api\\ExampleVerticalSliceArchteture.Api\\Features\\Product\\UpdateProduct\\UpdateProductHandler.cs",
               "RelativeDocumentMoniker": "ExampleVerticalSliceArchteture.Api\\Features\\Product\\UpdateProduct\\UpdateProductHandler.cs",
@@ -102,12 +99,11 @@
               "RelativeToolTip": "ExampleVerticalSliceArchteture.Api\\Features\\Product\\UpdateProduct\\UpdateProductHandler.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-19T02:00:15.597Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-19T02:00:15.597Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "UpdateProductRequest.cs",
               "DocumentMoniker": "C:\\Users\\docto\\source\\repos\\VerticalSliceArchteture\\ExampleVerticalSliceArchteture.Api\\ExampleVerticalSliceArchteture.Api\\Features\\Product\\UpdateProduct\\UpdateProductRequest.cs",
               "RelativeDocumentMoniker": "ExampleVerticalSliceArchteture.Api\\Features\\Product\\UpdateProduct\\UpdateProductRequest.cs",
@@ -115,8 +111,7 @@
               "RelativeToolTip": "ExampleVerticalSliceArchteture.Api\\Features\\Product\\UpdateProduct\\UpdateProductRequest.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-19T02:00:06.461Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-19T02:00:06.461Z"
             },
             {
               "$type": "Document",
@@ -128,8 +123,7 @@
               "RelativeToolTip": "ExampleVerticalSliceArchteture.Api\\Domain\\Product.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-19T01:59:57.781Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-19T01:59:57.781Z"
             }
           ]
         }

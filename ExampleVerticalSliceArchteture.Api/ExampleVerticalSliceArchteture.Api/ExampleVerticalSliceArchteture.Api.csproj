@@ -21,8 +21,6 @@
 
   <ItemGroup>
     <Folder Include="Features\Category\CreateCategory\" />
-    <Folder Include="Features\Product\GetAllProduct\" />
-    <Folder Include="Features\Product\GetProductById\" />
   </ItemGroup>
 
 

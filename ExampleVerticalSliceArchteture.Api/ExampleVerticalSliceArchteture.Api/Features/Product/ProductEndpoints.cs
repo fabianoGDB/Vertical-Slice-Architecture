@@ -25,7 +25,7 @@ namespace ExampleVerticalSliceArchteture.Api.Features.Product
                 return response.Success ? Results.Ok(response) : Results.BadRequest(response);
             });
 
-            productGroup.MapDelete("/delete/{id:int}", async (int id, ISender sender) =>
+            productGroup.MapDelete("/delete/{id}", async (int id, ISender sender) =>
             {
                 var response = await sender.Send(new DeleteProductCommand(id));
                 return response.Success ? Results.Ok(response) : Results.BadRequest(response);
