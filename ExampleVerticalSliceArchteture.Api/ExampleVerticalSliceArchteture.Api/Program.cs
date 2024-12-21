@@ -9,7 +9,8 @@ var builder = WebApplication.CreateBuilder(args);
 
 builder.Services.AddControllers();
 builder.Services.AddOpenApi();
-builder.Services.AddDbContext<AppDbContext>(option => option.UseSqlite(builder.Configuration.GetConnectionString("ConnectionString")));
+builder.Services.AddDbContext<AppDbContext>(
+    option => option.UseSqlite(builder.Configuration.GetConnectionString("lite")));
 builder.Services.AddExceptionHandler<GlobalExceptionHandler>();
 builder.Services.AddMediatR(config => config.RegisterServicesFromAssembly(typeof(Program).Assembly));
 TypeAdapterConfig.GlobalSettings.Scan(typeof(GetProductMappingConfig).Assembly);

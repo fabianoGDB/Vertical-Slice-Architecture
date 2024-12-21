@@ -3,28 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\docto\\source\\repos\\VerticalSliceArchteture\\ExampleVerticalSliceArchteture.Api\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C2E4B533-B38A-4853-BE98-663302A9F205}|ExampleVerticalSliceArchteture.Api\\ExampleVerticalSliceArchteture.Api.csproj|c:\\users\\docto\\source\\repos\\verticalslicearchteture\\exampleverticalslicearchteture.api\\exampleverticalslicearchteture.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C2E4B533-B38A-4853-BE98-663302A9F205}|ExampleVerticalSliceArchteture.Api\\ExampleVerticalSliceArchteture.Api.csproj|solutionrelative:exampleverticalslicearchteture.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C2E4B533-B38A-4853-BE98-663302A9F205}|ExampleVerticalSliceArchteture.Api\\ExampleVerticalSliceArchteture.Api.csproj|c:\\users\\docto\\source\\repos\\verticalslicearchteture\\exampleverticalslicearchteture.api\\exampleverticalslicearchteture.api\\features\\product\\getproductresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C2E4B533-B38A-4853-BE98-663302A9F205}|ExampleVerticalSliceArchteture.Api\\ExampleVerticalSliceArchteture.Api.csproj|solutionrelative:exampleverticalslicearchteture.api\\features\\product\\getproductresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\docto\\source\\repos\\VerticalSliceArchteture\\ExampleVerticalSliceArchteture.Api\\ExampleVerticalSliceArchteture.Api\\Migrations\\20241221010521_First.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ExampleVerticalSliceArchteture.Api\\Migrations\\20241221010521_First.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C2E4B533-B38A-4853-BE98-663302A9F205}|ExampleVerticalSliceArchteture.Api\\ExampleVerticalSliceArchteture.Api.csproj|c:\\users\\docto\\source\\repos\\verticalslicearchteture\\exampleverticalslicearchteture.api\\exampleverticalslicearchteture.api\\infrastructure\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C2E4B533-B38A-4853-BE98-663302A9F205}|ExampleVerticalSliceArchteture.Api\\ExampleVerticalSliceArchteture.Api.csproj|solutionrelative:exampleverticalslicearchteture.api\\infrastructure\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\docto\\source\\repos\\VerticalSliceArchteture\\ExampleVerticalSliceArchteture.Api\\ExampleVerticalSliceArchteture.Api\\Migrations\\20241221215830_First.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ExampleVerticalSliceArchteture.Api\\Migrations\\20241221215830_First.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C2E4B533-B38A-4853-BE98-663302A9F205}|ExampleVerticalSliceArchteture.Api\\ExampleVerticalSliceArchteture.Api.csproj|c:\\users\\docto\\source\\repos\\verticalslicearchteture\\exampleverticalslicearchteture.api\\exampleverticalslicearchteture.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{C2E4B533-B38A-4853-BE98-663302A9F205}|ExampleVerticalSliceArchteture.Api\\ExampleVerticalSliceArchteture.Api.csproj|solutionrelative:exampleverticalslicearchteture.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{C2E4B533-B38A-4853-BE98-663302A9F205}|ExampleVerticalSliceArchteture.Api\\ExampleVerticalSliceArchteture.Api.csproj|c:\\users\\docto\\source\\repos\\verticalslicearchteture\\exampleverticalslicearchteture.api\\exampleverticalslicearchteture.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2E4B533-B38A-4853-BE98-663302A9F205}|ExampleVerticalSliceArchteture.Api\\ExampleVerticalSliceArchteture.Api.csproj|solutionrelative:exampleverticalslicearchteture.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2E4B533-B38A-4853-BE98-663302A9F205}|ExampleVerticalSliceArchteture.Api\\ExampleVerticalSliceArchteture.Api.csproj|c:\\users\\docto\\source\\repos\\verticalslicearchteture\\exampleverticalslicearchteture.api\\exampleverticalslicearchteture.api\\infrastructure\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2E4B533-B38A-4853-BE98-663302A9F205}|ExampleVerticalSliceArchteture.Api\\ExampleVerticalSliceArchteture.Api.csproj|solutionrelative:exampleverticalslicearchteture.api\\infrastructure\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\docto\\source\\repos\\VerticalSliceArchteture\\ExampleVerticalSliceArchteture.Api\\ExampleVerticalSliceArchteture.Api\\Migrations\\20241221213427_First.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ExampleVerticalSliceArchteture.Api\\Migrations\\20241221213427_First.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2E4B533-B38A-4853-BE98-663302A9F205}|ExampleVerticalSliceArchteture.Api\\ExampleVerticalSliceArchteture.Api.csproj|c:\\users\\docto\\source\\repos\\verticalslicearchteture\\exampleverticalslicearchteture.api\\exampleverticalslicearchteture.api\\domain\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2E4B533-B38A-4853-BE98-663302A9F205}|ExampleVerticalSliceArchteture.Api\\ExampleVerticalSliceArchteture.Api.csproj|solutionrelative:exampleverticalslicearchteture.api\\domain\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\docto\\source\\repos\\VerticalSliceArchteture\\ExampleVerticalSliceArchteture.Api\\ExampleVerticalSliceArchteture.Api\\Migrations\\20241221211637_First.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ExampleVerticalSliceArchteture.Api\\Migrations\\20241221211637_First.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C2E4B533-B38A-4853-BE98-663302A9F205}|ExampleVerticalSliceArchteture.Api\\ExampleVerticalSliceArchteture.Api.csproj|c:\\users\\docto\\source\\repos\\verticalslicearchteture\\exampleverticalslicearchteture.api\\exampleverticalslicearchteture.api\\features\\product\\getallproduct\\getallproducthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C2E4B533-B38A-4853-BE98-663302A9F205}|ExampleVerticalSliceArchteture.Api\\ExampleVerticalSliceArchteture.Api.csproj|solutionrelative:exampleverticalslicearchteture.api\\features\\product\\getallproduct\\getallproducthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2E4B533-B38A-4853-BE98-663302A9F205}|ExampleVerticalSliceArchteture.Api\\ExampleVerticalSliceArchteture.Api.csproj|c:\\users\\docto\\source\\repos\\verticalslicearchteture\\exampleverticalslicearchteture.api\\exampleverticalslicearchteture.api\\features\\product\\getproductresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2E4B533-B38A-4853-BE98-663302A9F205}|ExampleVerticalSliceArchteture.Api\\ExampleVerticalSliceArchteture.Api.csproj|solutionrelative:exampleverticalslicearchteture.api\\features\\product\\getproductresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C2E4B533-B38A-4853-BE98-663302A9F205}|ExampleVerticalSliceArchteture.Api\\ExampleVerticalSliceArchteture.Api.csproj|c:\\users\\docto\\source\\repos\\verticalslicearchteture\\exampleverticalslicearchteture.api\\exampleverticalslicearchteture.api\\features\\product\\productendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -63,10 +75,6 @@
       "RelativeMoniker": "D:0:0:{C2E4B533-B38A-4853-BE98-663302A9F205}|ExampleVerticalSliceArchteture.Api\\ExampleVerticalSliceArchteture.Api.csproj|solutionrelative:exampleverticalslicearchteture.api\\features\\product\\getproductmappingconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C2E4B533-B38A-4853-BE98-663302A9F205}|ExampleVerticalSliceArchteture.Api\\ExampleVerticalSliceArchteture.Api.csproj|c:\\users\\docto\\source\\repos\\verticalslicearchteture\\exampleverticalslicearchteture.api\\exampleverticalslicearchteture.api\\domain\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C2E4B533-B38A-4853-BE98-663302A9F205}|ExampleVerticalSliceArchteture.Api\\ExampleVerticalSliceArchteture.Api.csproj|solutionrelative:exampleverticalslicearchteture.api\\domain\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C2E4B533-B38A-4853-BE98-663302A9F205}|ExampleVerticalSliceArchteture.Api\\ExampleVerticalSliceArchteture.Api.csproj|c:\\users\\docto\\source\\repos\\verticalslicearchteture\\exampleverticalslicearchteture.api\\exampleverticalslicearchteture.api\\features\\product\\updateproduct\\updateproducthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C2E4B533-B38A-4853-BE98-663302A9F205}|ExampleVerticalSliceArchteture.Api\\ExampleVerticalSliceArchteture.Api.csproj|solutionrelative:exampleverticalslicearchteture.api\\features\\product\\updateproduct\\updateproducthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -82,20 +90,42 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "20241221010521_First.cs",
-              "DocumentMoniker": "C:\\Users\\docto\\source\\repos\\VerticalSliceArchteture\\ExampleVerticalSliceArchteture.Api\\ExampleVerticalSliceArchteture.Api\\Migrations\\20241221010521_First.cs",
-              "RelativeDocumentMoniker": "ExampleVerticalSliceArchteture.Api\\Migrations\\20241221010521_First.cs",
-              "ToolTip": "C:\\Users\\docto\\source\\repos\\VerticalSliceArchteture\\ExampleVerticalSliceArchteture.Api\\ExampleVerticalSliceArchteture.Api\\Migrations\\20241221010521_First.cs",
-              "RelativeToolTip": "ExampleVerticalSliceArchteture.Api\\Migrations\\20241221010521_First.cs",
+              "DocumentIndex": 0,
+              "Title": "20241221215830_First.cs",
+              "DocumentMoniker": "C:\\Users\\docto\\source\\repos\\VerticalSliceArchteture\\ExampleVerticalSliceArchteture.Api\\ExampleVerticalSliceArchteture.Api\\Migrations\\20241221215830_First.cs",
+              "RelativeDocumentMoniker": "ExampleVerticalSliceArchteture.Api\\Migrations\\20241221215830_First.cs",
+              "ToolTip": "C:\\Users\\docto\\source\\repos\\VerticalSliceArchteture\\ExampleVerticalSliceArchteture.Api\\ExampleVerticalSliceArchteture.Api\\Migrations\\20241221215830_First.cs",
+              "RelativeToolTip": "ExampleVerticalSliceArchteture.Api\\Migrations\\20241221215830_First.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-21T01:05:21.886Z",
+              "WhenOpened": "2024-12-21T21:58:31.161Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20241221213427_First.cs",
+              "DocumentMoniker": "C:\\Users\\docto\\source\\repos\\VerticalSliceArchteture\\ExampleVerticalSliceArchteture.Api\\ExampleVerticalSliceArchteture.Api\\Migrations\\20241221213427_First.cs",
+              "RelativeDocumentMoniker": "ExampleVerticalSliceArchteture.Api\\Migrations\\20241221213427_First.cs",
+              "ToolTip": "C:\\Users\\docto\\source\\repos\\VerticalSliceArchteture\\ExampleVerticalSliceArchteture.Api\\ExampleVerticalSliceArchteture.Api\\Migrations\\20241221213427_First.cs",
+              "RelativeToolTip": "ExampleVerticalSliceArchteture.Api\\Migrations\\20241221213427_First.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T21:34:27.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20241221211637_First.cs",
+              "DocumentMoniker": "C:\\Users\\docto\\source\\repos\\VerticalSliceArchteture\\ExampleVerticalSliceArchteture.Api\\ExampleVerticalSliceArchteture.Api\\Migrations\\20241221211637_First.cs",
+              "RelativeDocumentMoniker": "ExampleVerticalSliceArchteture.Api\\Migrations\\20241221211637_First.cs",
+              "ToolTip": "C:\\Users\\docto\\source\\repos\\VerticalSliceArchteture\\ExampleVerticalSliceArchteture.Api\\ExampleVerticalSliceArchteture.Api\\Migrations\\20241221211637_First.cs",
+              "RelativeToolTip": "ExampleVerticalSliceArchteture.Api\\Migrations\\20241221211637_First.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T21:16:37.399Z"
             },
             {
               "$type": "Document",
@@ -112,33 +142,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\docto\\source\\repos\\VerticalSliceArchteture\\ExampleVerticalSliceArchteture.Api\\ExampleVerticalSliceArchteture.Api\\appsettings.json",
               "RelativeDocumentMoniker": "ExampleVerticalSliceArchteture.Api\\appsettings.json",
               "ToolTip": "C:\\Users\\docto\\source\\repos\\VerticalSliceArchteture\\ExampleVerticalSliceArchteture.Api\\ExampleVerticalSliceArchteture.Api\\appsettings.json",
               "RelativeToolTip": "ExampleVerticalSliceArchteture.Api\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-12-21T01:02:15.378Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "GetAllProductHandler.cs",
               "DocumentMoniker": "C:\\Users\\docto\\source\\repos\\VerticalSliceArchteture\\ExampleVerticalSliceArchteture.Api\\ExampleVerticalSliceArchteture.Api\\Features\\Product\\GetAllProduct\\GetAllProductHandler.cs",
               "RelativeDocumentMoniker": "ExampleVerticalSliceArchteture.Api\\Features\\Product\\GetAllProduct\\GetAllProductHandler.cs",
               "ToolTip": "C:\\Users\\docto\\source\\repos\\VerticalSliceArchteture\\ExampleVerticalSliceArchteture.Api\\ExampleVerticalSliceArchteture.Api\\Features\\Product\\GetAllProduct\\GetAllProductHandler.cs",
               "RelativeToolTip": "ExampleVerticalSliceArchteture.Api\\Features\\Product\\GetAllProduct\\GetAllProductHandler.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBZwAsAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-21T00:52:39.394Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 14,
               "Title": "CreateProductCommand.cs",
               "DocumentMoniker": "C:\\Users\\docto\\source\\repos\\VerticalSliceArchteture\\ExampleVerticalSliceArchteture.Api\\ExampleVerticalSliceArchteture.Api\\Features\\Product\\CreateProduct\\CreateProductCommand.cs",
               "RelativeDocumentMoniker": "ExampleVerticalSliceArchteture.Api\\Features\\Product\\CreateProduct\\CreateProductCommand.cs",
@@ -151,20 +181,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\docto\\source\\repos\\VerticalSliceArchteture\\ExampleVerticalSliceArchteture.Api\\ExampleVerticalSliceArchteture.Api\\Program.cs",
               "RelativeDocumentMoniker": "ExampleVerticalSliceArchteture.Api\\Program.cs",
               "ToolTip": "C:\\Users\\docto\\source\\repos\\VerticalSliceArchteture\\ExampleVerticalSliceArchteture.Api\\ExampleVerticalSliceArchteture.Api\\Program.cs",
               "RelativeToolTip": "ExampleVerticalSliceArchteture.Api\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-21T00:50:06.119Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 17,
               "Title": "GetProductMappingConfig.cs",
               "DocumentMoniker": "C:\\Users\\docto\\source\\repos\\VerticalSliceArchteture\\ExampleVerticalSliceArchteture.Api\\ExampleVerticalSliceArchteture.Api\\Features\\Product\\GetProductMappingConfig.cs",
               "RelativeDocumentMoniker": "ExampleVerticalSliceArchteture.Api\\Features\\Product\\GetProductMappingConfig.cs",
@@ -177,7 +207,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 16,
               "Title": "GetProductByIdHandler.cs",
               "DocumentMoniker": "C:\\Users\\docto\\source\\repos\\VerticalSliceArchteture\\ExampleVerticalSliceArchteture.Api\\ExampleVerticalSliceArchteture.Api\\Features\\Product\\GetProductById\\GetProductByIdHandler.cs",
               "RelativeDocumentMoniker": "ExampleVerticalSliceArchteture.Api\\Features\\Product\\GetProductById\\GetProductByIdHandler.cs",
@@ -190,7 +220,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "GetAllProductQuery.cs",
               "DocumentMoniker": "C:\\Users\\docto\\source\\repos\\VerticalSliceArchteture\\ExampleVerticalSliceArchteture.Api\\ExampleVerticalSliceArchteture.Api\\Features\\Product\\GetAllProduct\\GetAllProductQuery.cs",
               "RelativeDocumentMoniker": "ExampleVerticalSliceArchteture.Api\\Features\\Product\\GetAllProduct\\GetAllProductQuery.cs",
@@ -203,7 +233,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 8,
               "Title": "GetProductResponse.cs",
               "DocumentMoniker": "C:\\Users\\docto\\source\\repos\\VerticalSliceArchteture\\ExampleVerticalSliceArchteture.Api\\ExampleVerticalSliceArchteture.Api\\Features\\Product\\GetProductResponse.cs",
               "RelativeDocumentMoniker": "ExampleVerticalSliceArchteture.Api\\Features\\Product\\GetProductResponse.cs",
@@ -216,7 +246,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "GetProductByIdQuery.cs",
               "DocumentMoniker": "C:\\Users\\docto\\source\\repos\\VerticalSliceArchteture\\ExampleVerticalSliceArchteture.Api\\ExampleVerticalSliceArchteture.Api\\Features\\Product\\GetProductById\\GetProductByIdQuery.cs",
               "RelativeDocumentMoniker": "ExampleVerticalSliceArchteture.Api\\Features\\Product\\GetProductById\\GetProductByIdQuery.cs",
@@ -229,7 +259,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 15,
               "Title": "DeleteProductHandler.cs",
               "DocumentMoniker": "C:\\Users\\docto\\source\\repos\\VerticalSliceArchteture\\ExampleVerticalSliceArchteture.Api\\ExampleVerticalSliceArchteture.Api\\Features\\Product\\DeleteProduct\\DeleteProductHandler.cs",
               "RelativeDocumentMoniker": "ExampleVerticalSliceArchteture.Api\\Features\\Product\\DeleteProduct\\DeleteProductHandler.cs",
@@ -242,7 +272,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 13,
               "Title": "DeleteProductCommand.cs",
               "DocumentMoniker": "C:\\Users\\docto\\source\\repos\\VerticalSliceArchteture\\ExampleVerticalSliceArchteture.Api\\ExampleVerticalSliceArchteture.Api\\Features\\Product\\DeleteProduct\\DeleteProductCommand.cs",
               "RelativeDocumentMoniker": "ExampleVerticalSliceArchteture.Api\\Features\\Product\\DeleteProduct\\DeleteProductCommand.cs",
@@ -255,7 +285,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "ProductEndpoints.cs",
               "DocumentMoniker": "C:\\Users\\docto\\source\\repos\\VerticalSliceArchteture\\ExampleVerticalSliceArchteture.Api\\ExampleVerticalSliceArchteture.Api\\Features\\Product\\ProductEndpoints.cs",
               "RelativeDocumentMoniker": "ExampleVerticalSliceArchteture.Api\\Features\\Product\\ProductEndpoints.cs",
@@ -268,7 +298,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
               "Title": "UpdateProductCommand.cs",
               "DocumentMoniker": "C:\\Users\\docto\\source\\repos\\VerticalSliceArchteture\\ExampleVerticalSliceArchteture.Api\\ExampleVerticalSliceArchteture.Api\\Features\\Product\\UpdateProduct\\UpdateProductCommand.cs",
               "RelativeDocumentMoniker": "ExampleVerticalSliceArchteture.Api\\Features\\Product\\UpdateProduct\\UpdateProductCommand.cs",
@@ -281,7 +311,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 18,
               "Title": "UpdateProductHandler.cs",
               "DocumentMoniker": "C:\\Users\\docto\\source\\repos\\VerticalSliceArchteture\\ExampleVerticalSliceArchteture.Api\\ExampleVerticalSliceArchteture.Api\\Features\\Product\\UpdateProduct\\UpdateProductHandler.cs",
               "RelativeDocumentMoniker": "ExampleVerticalSliceArchteture.Api\\Features\\Product\\UpdateProduct\\UpdateProductHandler.cs",
@@ -289,11 +319,12 @@
               "RelativeToolTip": "ExampleVerticalSliceArchteture.Api\\Features\\Product\\UpdateProduct\\UpdateProductHandler.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-19T02:00:15.597Z"
+              "WhenOpened": "2024-12-19T02:00:15.597Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 19,
               "Title": "UpdateProductRequest.cs",
               "DocumentMoniker": "C:\\Users\\docto\\source\\repos\\VerticalSliceArchteture\\ExampleVerticalSliceArchteture.Api\\ExampleVerticalSliceArchteture.Api\\Features\\Product\\UpdateProduct\\UpdateProductRequest.cs",
               "RelativeDocumentMoniker": "ExampleVerticalSliceArchteture.Api\\Features\\Product\\UpdateProduct\\UpdateProductRequest.cs",
@@ -301,19 +332,21 @@
               "RelativeToolTip": "ExampleVerticalSliceArchteture.Api\\Features\\Product\\UpdateProduct\\UpdateProductRequest.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-19T02:00:06.461Z"
+              "WhenOpened": "2024-12-19T02:00:06.461Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 5,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\docto\\source\\repos\\VerticalSliceArchteture\\ExampleVerticalSliceArchteture.Api\\ExampleVerticalSliceArchteture.Api\\Domain\\Product.cs",
               "RelativeDocumentMoniker": "ExampleVerticalSliceArchteture.Api\\Domain\\Product.cs",
               "ToolTip": "C:\\Users\\docto\\source\\repos\\VerticalSliceArchteture\\ExampleVerticalSliceArchteture.Api\\ExampleVerticalSliceArchteture.Api\\Domain\\Product.cs",
               "RelativeToolTip": "ExampleVerticalSliceArchteture.Api\\Domain\\Product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-19T01:59:57.781Z"
+              "WhenOpened": "2024-12-19T01:59:57.781Z",
+              "EditorCaption": ""
             }
           ]
         }
