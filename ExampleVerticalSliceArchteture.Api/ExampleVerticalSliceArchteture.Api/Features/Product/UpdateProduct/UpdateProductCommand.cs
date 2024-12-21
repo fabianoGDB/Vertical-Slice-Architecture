@@ -3,7 +3,7 @@ using MediatR;
 
 namespace ExampleVerticalSliceArchteture.Api.Features.Product.UpdateProduct
 {
-    public class UpdateProductCommand(UpdateProductRequest request): IRequest<ServiceResponse>
+    public record UpdateProductCommand(UpdateProductRequest request): IRequest<ServiceResponse>
     {
     }
 }

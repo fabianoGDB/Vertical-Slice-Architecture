@@ -10,7 +10,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace ExampleVerticalSliceArchteture.Api.Migrations
 {
     [DbContext(typeof(AppDbContext))]
-    [Migration("20241217211619_First")]
+    [Migration("20241221010521_First")]
     partial class First
     {
         /// <inheritdoc />
