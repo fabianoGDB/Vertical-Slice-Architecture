@@ -1,4 +1,5 @@
 using ExampleVerticalSliceArchteture.Api.Exceptions;
+using ExampleVerticalSliceArchteture.Api.Features.Category;
 using ExampleVerticalSliceArchteture.Api.Features.Product;
 using ExampleVerticalSliceArchteture.Api.Infrastructure;
 using Mapster;
@@ -33,6 +34,7 @@ app.MapScalarApiReference();
 app.MapControllers();
 
 app.MappProductEndpoints();
+app.MappCategoryEndpoints();
 
 
 app.Run();

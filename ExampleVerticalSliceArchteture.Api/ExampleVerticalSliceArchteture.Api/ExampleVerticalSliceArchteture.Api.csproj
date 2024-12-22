@@ -19,9 +19,5 @@
 	  </PackageReference>
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="Features\Category\CreateCategory\" />
-  </ItemGroup>
-
 
 </Project>
